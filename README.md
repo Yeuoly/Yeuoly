@@ -30,7 +30,7 @@ Listed below are my social platforms
 ### Projects Collections
 #### 一些小项目和收集
 
-- 📺 [YeuolyDanmuJi](https://github.com/Yeuoly/YeuolyDanmuJi) [⭐ 8 🕸️ 0](https://github.com/Yeuoly/YeuolyDanmuJi/stargazers) `Electron` `Vue` `NodeJS`
+- 📺 [YeuolyDanmuJi](https://github.com/Yeuoly/YeuolyDanmuJi) [⭐ 9 🕸️ 0](https://github.com/Yeuoly/YeuolyDanmuJi/stargazers) `Electron` `Vue` `NodeJS`
 <br> `这是一个用Electron写的B站的弹幕姬，有着超高的自定义能力，开放插件开发~（啊啊啊啊啊我不小心把它删掉了，以前的stars都无了。。）`
 - 🦺 [FxxkXSS](https://github.com/Yeuoly/FxxkXSS) [⭐ 41 🕸️ 6](https://github.com/Yeuoly/FxxkXSS/stargazers) `Electron` `Vue` `NodeJS`
 <br> `这个是用来扩大化利用XSS的工具，在利用后台XSS的时候，它会有意想不到的作用哦~`
