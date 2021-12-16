@@ -32,7 +32,7 @@ Listed below are my social platforms
 
 - 📺 [YeuolyDanmuJi](https://github.com/Yeuoly/YeuolyDanmuJi) [⭐ 10 🕸️ 0](https://github.com/Yeuoly/YeuolyDanmuJi/stargazers) `Electron` `Vue` `NodeJS`
 <br> `这是一个用Electron写的B站的弹幕姬，有着超高的自定义能力，开放插件开发~（啊啊啊啊啊我不小心把它删掉了，以前的stars都无了。。）`
-- 🦺 [FxxkXSS](https://github.com/Yeuoly/FxxkXSS) [⭐ 42 🕸️ 6](https://github.com/Yeuoly/FxxkXSS/stargazers) `Electron` `Vue` `NodeJS`
+- 🦺 [FxxkXSS](https://github.com/Yeuoly/FxxkXSS) [⭐ 44 🕸️ 6](https://github.com/Yeuoly/FxxkXSS/stargazers) `Electron` `Vue` `NodeJS`
 <br> `这个是用来扩大化利用XSS的工具，在利用后台XSS的时候，它会有意想不到的作用哦~`
 - 🍒 [YeuolyBlog](https://ylday.srmxy.cn) [⭐ 1 🕸️ 0](https://github.com/Yeuoly/YeuolyBlog_FrontEnd_Vuetify/stargazers) `Vue` `NodeJS` `PHP` `MySQL` `ThinkPHP` `Redis`
 <br> `从三年前开始开发，一直迭代了好几个大版本的博客系统，现在已经支持了代码编写、Latex编写及解析、图片上传等基础功能，暂不开放注册`
