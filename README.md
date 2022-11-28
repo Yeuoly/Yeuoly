@@ -5,20 +5,9 @@
 ### Hi ! I'm Yeuoly
 #### 你好鸭，我是芸璃
 
-- 🐘 I'm a PHPer, coding web backend with PHP
-<br>`写PHP写得挺多的，大概，一般都是用来写Web后端的东西，还写了一个憨憨框架`
-- 🏩 I like Nodejs, As to me, it's awesome and convenient
-<br>`NodeJS yyds！写过很多小工具，都是基于NodeJS的，得益于npm的包实在太多了，Electron等又提供了桌面方案，用Node来写小工具就变得非常舒服`
-- 🐍 I also like Python, but not very skilled now
-<br>`同时呢，Python也经常用，但不是很熟，主要用来做pwn和写一些不需要GUI的小工具`
-- 🚩 I'm a CTFer, Capture the flag makes me excited
-<br>`还是个CTFer，每次比赛，当我拿到flag的时候，我都会感到非常兴奋，尤其是那些还没什么人写出来的题`
-- 🎩 I'm a whitehat, foucs on BILISRC, and 🥈 2nd of BILISRC in 2020 and 2021
-<br>`是个白帽子，（但没找到白帽子的emoji），主要活跃在BILISRC，来自`[Day1安全团队](http://team.day1.today/)
-- ✉️ If you like me, just [concat me through email !](mailto:admin@srmxy.cn)
-<br>`欢迎勾搭x`[点我点我](mailto:admin@srmxy.cn)
-- 👗 dress like a girl can let me find myself
-<br>`女装子一枚，怎么说呢，总感觉自己应该是个女孩子`
+- 想着有一会没有更新Github主页了，就来写一写吧~
+- 我是一名C/Go开发，也是一名做二进制安全的工程师，时不时会参加一些CTF竞赛，也会开发一些CTF/AWD相关的小项目
+- 想要联系我的话就看下面的链接吧~
 <br>
 
 Listed below are my social platforms
