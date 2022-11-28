@@ -29,3 +29,5 @@ Listed below are my social platforms
 <br> `一个自己从零开始开发的PHP框架，现在支持数据库、中间件、验证器、视图层、XSS过滤、路由等功能`
 - 🍡 [BUUPWN](https://github.com/Yeuoly/buuctf_pwn) [⭐ 8 🕸️ 1](https://github.com/Yeuoly/buuctf_pwn/stargazers) `Python` `Linux` `pwn` `C`
 <br> `我自己写的buuctf上的pwn的题目的exp集合吧，只要我还在做题，就会一直更新（×`
+- 🍡 [IrinaCTF](https://iotshield.srmxy.cn) [⭐ 0 🕸️ 0](https://github.com/Yeuoly/buuctf_pwn/stargazers) `Go` `Linux` `C`
+<br> `一个支持CTF/AWD/教学等多种功能的平台`
