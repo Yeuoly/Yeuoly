@@ -1,7 +1,7 @@
 ## Hi ! I'm Yeuoly
 ### 你好鸭，我是芸璃
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=Yeuoly&show_icons=true&title_color=000&icon_color=0099ff&text_color=000&bg_color=ffffff&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeuoly\&layout=compact)
+
 
 - 想着有一会没有更新Github主页了，就来写一写吧~
 - It's been a while since I updated my GitHub page, so I thought I'd write a little something.
